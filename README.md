@@ -5,7 +5,7 @@
 
 ### Where to find me
 - [My Instagram account](https://www.instagram.com/tristian_oyen/)
-reach me at tristianoyen01@gmail.com
+- reach me at tristianoyen01@gmail.com
 
 
 ### Languages
