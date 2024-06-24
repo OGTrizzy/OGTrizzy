@@ -1,5 +1,18 @@
-# Hi there 
+# Hello! Im Tristian Øyen
+- I’m currently studying at Noroff University Front-end Dev online
+- Bodybuilder, workout, gaming, roadtrip, fishing
 
-- I’m currently studying at Noroff University Front-end Dev
-- Fun fact: my goal is to become norway's biggest(bodybuilder) coder
-- How to reach me: [My Instagram account](https://www.instagram.com/tristian_oyen/)
+
+### Where to find me
+- [My Instagram account](https://www.instagram.com/tristian_oyen/)
+reach me at tristianoyen01@gmail.com
+
+
+### Languages
+- js
+- html
+- css
+
+### software/tools
+- Visual Studio Code
+- Figma
