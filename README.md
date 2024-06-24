@@ -1,4 +1,5 @@
 # Hello! Im Tristian Øyen
+- From Sandefjord, Norway
 - I’m currently studying at Noroff University Front-end Dev online
 - Bodybuilder, workout, gaming, roadtrip, fishing
 
